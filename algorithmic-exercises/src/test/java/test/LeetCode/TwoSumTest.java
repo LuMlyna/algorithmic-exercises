@@ -1,6 +1,6 @@
 package test.LeetCode;
 
-import LeetCode.TwoSum;
+import algos.LeetCode.TwoSum;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
